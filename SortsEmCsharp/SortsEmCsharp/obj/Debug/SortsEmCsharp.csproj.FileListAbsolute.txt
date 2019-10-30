@@ -1,0 +1,10 @@
+C:\Users\Bruno\source\repos\SortsEmCsharp\SortsEmCsharp\bin\Debug\SortsEmCsharp.exe.config
+C:\Users\Bruno\source\repos\SortsEmCsharp\SortsEmCsharp\bin\Debug\SortsEmCsharp.exe
+C:\Users\Bruno\source\repos\SortsEmCsharp\SortsEmCsharp\bin\Debug\SortsEmCsharp.pdb
+C:\Users\Bruno\source\repos\SortsEmCsharp\SortsEmCsharp\obj\Debug\SortsEmCsharp.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\SortsEmCsharp\SortsEmCsharp\obj\Debug\SortsEmCsharp.AppSort.resources
+C:\Users\Bruno\source\repos\SortsEmCsharp\SortsEmCsharp\obj\Debug\SortsEmCsharp.Properties.Resources.resources
+C:\Users\Bruno\source\repos\SortsEmCsharp\SortsEmCsharp\obj\Debug\SortsEmCsharp.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\SortsEmCsharp\SortsEmCsharp\obj\Debug\SortsEmCsharp.exe
+C:\Users\Bruno\source\repos\SortsEmCsharp\SortsEmCsharp\obj\Debug\SortsEmCsharp.pdb
+C:\Users\Bruno\source\repos\SortsEmCsharp\SortsEmCsharp\obj\Debug\SortsEmCsharp.Form_Output.resources
