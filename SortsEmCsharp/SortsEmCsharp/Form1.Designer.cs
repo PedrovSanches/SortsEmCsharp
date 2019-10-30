@@ -37,7 +37,7 @@
             // 
             // btn_Executar
             // 
-            this.btn_Executar.Location = new System.Drawing.Point(346, 305);
+            this.btn_Executar.Location = new System.Drawing.Point(354, 306);
             this.btn_Executar.Name = "btn_Executar";
             this.btn_Executar.Size = new System.Drawing.Size(75, 23);
             this.btn_Executar.TabIndex = 0;
@@ -52,7 +52,7 @@
             "Bubble Sort",
             "Insertion Sort",
             "Selection Sort"});
-            this.list_sort.Location = new System.Drawing.Point(331, 178);
+            this.list_sort.Location = new System.Drawing.Point(332, 178);
             this.list_sort.Name = "list_sort";
             this.list_sort.Size = new System.Drawing.Size(120, 95);
             this.list_sort.TabIndex = 1;

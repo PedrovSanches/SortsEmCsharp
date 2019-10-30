@@ -83,7 +83,9 @@ namespace SortsEmCsharp
         }
 
         private void btn_Executar_Click(object sender, EventArgs e)
-        {
+        {   
+            if(form_output == null || form_output.IsDisposed)
+                form_output  = new Form_Output();
             try
             {          
                 string selected = (list_sort.SelectedItem).ToString();
